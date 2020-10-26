@@ -1,0 +1,28 @@
+table {
+    width: 70%;
+    margin: auto;
+    border-collapse: collapse;
+    border-left: 1px solid #e1effa;
+    border-right: 1px solid #e1effa;
+    border-bottom: 1px solid #e1effa;
+}
+thead th {
+    background: #87cefa;
+    color: white;
+    padding: 15px;
+    text-transform: uppercase;
+}
+tbody td {
+    padding: 15px;
+    border: 1px solid  #e1effa;
+    border-left:none;
+    border-right: none;
+    text-align: center;
+}
+caption {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
